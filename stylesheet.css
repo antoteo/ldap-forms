@@ -1,0 +1,14 @@
+.result {
+ color: Red;
+ font-weight: bold;
+}
+a:hover {
+ color: #f00;
+ cursor: pointer;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
